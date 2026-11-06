@@ -9,19 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
+## Education
 
 * **Ph.D. in Geodesy and Survey Engineering**, Wuhan University, China, 2021–2025
-
   * Research focus: Structural Health Monitoring, GNSS/RTK, vibration monitoring, sensing and infrastructure monitoring
-  * Joint research / visiting experience at Loughborough University, UK
-
-* **M.S. in Water Conservancy and Hydropower Engineering**,  China
-
-  * Research focus: Distributed Fibre Optic Sensing (DFOS), structural monitoring and concrete temperature monitoring
-
-* **B.S. in Information Management and Information Systems**, China
-
+  * **Joint PhD Research Visit**, February 2024 – August 2024, School of Architecture, Building and Civil Engineering, Loughborough University, UK
 # Work experience
 
 * **2026–Present: KTP Associate**
