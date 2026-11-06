@@ -9,12 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
+Education
 
-* **Ph.D. in Geodesy and Survey Engineering**, Wuhan University, China, 2021–2025
-  * Research focus: Structural Health Monitoring, GNSS/RTK, vibration monitoring, sensing and infrastructure monitoring
-  * **Joint PhD Research Visit**, February 2024 – August 2024, School of Architecture, Building and Civil Engineering, Loughborough University, UK
-# Work experience
+Ph.D. in Geodesy and Survey Engineering, Wuhan University, China, 2021–2025
+
+Research focus: Structural Health Monitoring, GNSS/RTK, vibration monitoring, sensing and infrastructure monitoring
+
+Joint PhD Research Visit, February 2024 – August 2024, School of Architecture, Building and Civil Engineering, Loughborough University, UK
+
+Work Experience
 
 * **2026–Present: KTP Associate**
 
