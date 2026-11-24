@@ -7,7 +7,7 @@ collection: portfolio
 ## Project Overview
 
 Development of an integrated Structural Health Monitoring (SHM) system for high-mast lighting structures, focusing on structural vibration, dynamic behaviour and long-term condition monitoring.
-![SHM System Architecture](/images/projects/shm/shm_architecture.png)
+![SHM System Architecture](/images/projects/shm/architecture.png)
 
 ## Objectives
 
