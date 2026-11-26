@@ -1,12 +1,12 @@
 ---
-title: "Structural Health Monitoring for High-Mast Lighting Structures"
+title: "Intelligent Structural Health Monitoring System"
 excerpt: "Development of an IoT-enabled structural health monitoring system for high-mast lighting structures.<br/><img src='/images/projects/智能爆破平台架构与应用成果.png'>"
 collection: portfolio
 ---
 
 ## Project Overview
 
-Development of an integrated Structural Health Monitoring (SHM) system for high-mast lighting structures, focusing on structural vibration, dynamic behaviour and long-term condition monitoring.
+Development of an intelligent Structural Health Monitoring (SHM) system for structures, focusing on structural vibration, dynamic behaviour and long-term condition monitoring.
 ![SHM System Architecture](/images/projects/shm/architecture.png)
 
 ## Objectives
