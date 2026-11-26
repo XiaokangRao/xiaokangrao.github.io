@@ -16,7 +16,7 @@ By integrating geodetic positioning technologies with robotics and multi-sensor 
 
 ## System Architecture
 
-![UGV System Architecture](/images/ugv/ugv_architecture.png)
+![UGV System Architecture](/images/projects/ugv/ugv_architecture.png)
 
 The system consists of four major layers:
 
