@@ -4,7 +4,7 @@ excerpt: "Development of GNSS-based high-precision positioning and real-time mon
 collection: portfolio
 ---
 
-# GNSS Integrated Sensing & Positioning System
+## Overview
 
 **Low-Cost Dual-Frequency GNSS | RTK Positioning | Signal Intelligence | Dynamic Monitoring | Multi-Sensor Fusion**
 
