@@ -2,7 +2,6 @@
 title: "UGV Autonomous Navigation & Intelligent Inspection System"
 excerpt: "Development of an integrated positioning, localisation and navigation system for unmanned ground vehicles."
 collection: portfolio
-classes: wide
 ---
 
 ## Overview
