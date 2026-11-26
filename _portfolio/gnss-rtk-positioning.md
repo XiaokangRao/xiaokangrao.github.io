@@ -12,7 +12,7 @@ An integrated GNSS engineering and research platform for high-precision position
 
 ## System Architecture
 
-![GNSS System Architecture](images/projects/gnss/gnss_architecture.png)
+![GNSS System Architecture](/images/projects/gnss/gnss_architecture.png)
 
 The system integrates GNSS hardware development, wireless communication, real-time positioning, signal intelligence, dynamic monitoring, and multi-sensor navigation into a unified framework.
 
