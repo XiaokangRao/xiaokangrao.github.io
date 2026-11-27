@@ -434,38 +434,6 @@ This project is under active development.
 - **Robotic Inspection:** Integration of UGV localisation, trajectory, mobile surveying, and inspection applications.
 - **Engineering Analytics:** Development of signal processing, anomaly detection, modal analysis, and condition assessment capabilities.
 
-## Repository Structure
-
-```text
-smart-infrastructure-platform/
-│
-├── platform/                 # Frontend platform
-│   └── cesium-shm/           # Vue + Cesium
-│
-├── shm-api/                  # Backend API
-│   ├── routers/
-│   ├── services/
-│   ├── database/
-│   └── main.py
-│
-├── docs/
-│   ├── architecture/
-│   ├── api/
-│   └── development/
-│
-├── images/
-│   ├── architecture/
-│   ├── dashboard/
-│   ├── gnss/
-│   ├── shm/
-│   └── ugv/
-│
-├── datasets/
-│   └── sample_data/
-│
-└── README.md
-```
-
 ## Vision
 
 The long-term vision is to develop a unified digital engineering platform connecting sensing hardware, positioning technologies, infrastructure monitoring, robotics, geospatial information, and intelligent data analytics.
