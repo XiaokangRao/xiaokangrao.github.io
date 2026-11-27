@@ -1,5 +1,5 @@
 ---
-title: "smart-infrastructure-platform"
+title: "Smart Infrastructure Platform"
 excerpt: "Development of GNSS-based high-precision positioning and real-time monitoring systems."
 collection: portfolio
 ---
